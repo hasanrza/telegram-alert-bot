@@ -10,7 +10,7 @@ This guide will walk you through the entire process of creating a Telegram bot u
 1. Open Telegram and search for **[BotFather](https://t.me/botfather)**.
 2. Click the **Start** button.
 3. Click or type **/newbot**.
-4. Enter a name for your bot. Example: `StickyAlertBotPayment`
+4. Enter a name for your bot. Example: `CMSBotTest`
 5. Enter a unique username ending in `Bot`. Example: `CMSBot`
 6. BotFather will return a **Bot Token**. Copy and save it — you'll need it to send messages.
 
